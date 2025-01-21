@@ -1,0 +1,17 @@
+--upgrade pip
+rarfile
+opencv-python
+scikit-learn
+pytube
+yt_dlp
+moviepy
+mediapipe
+optuna
+seaborn
+numpy
+matplotlib
+pandas
+tensorflow
+keras
+tqdm
+ultralytics
