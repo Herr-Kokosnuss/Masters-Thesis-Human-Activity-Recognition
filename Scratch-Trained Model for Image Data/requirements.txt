@@ -1,0 +1,14 @@
+--upgrade pip
+rarfile
+opencv-python
+scikit-learn
+pytube
+yt_dlp
+moviepy
+mediapipe
+seaborn
+numpy
+pandas
+matplotlib
+tensorflow
+tqdm

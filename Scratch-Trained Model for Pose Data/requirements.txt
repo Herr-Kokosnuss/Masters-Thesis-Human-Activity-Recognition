@@ -1,0 +1,16 @@
+--upgrade pip
+scikit-learn
+opencv-python
+tqdm
+matplotlib
+pytube
+yt_dlp
+moviepy
+seaborn
+ultralytics
+torch_geometric
+mediapipe
+optuna
+numpy
+pandas
+tensorflow
