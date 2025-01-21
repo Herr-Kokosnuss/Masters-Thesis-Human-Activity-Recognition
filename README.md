@@ -57,14 +57,21 @@ This repository contains the implementation of various deep learning models for 
   - NumPy
   - YOLO for PPE detection
 
-### 4. Pre-Trained MC3-18 Model
+### 4. Pre-Trained MC3-18 Model (🏆 Best Performing Model)
+- Achieves the highest accuracy among all implemented models
 - Implements the MC3-18 architecture with pre-trained weights
 - Similar to R3D-18 but with mixed 3D-2D convolutions
+- Advanced safety features:
+  - Fall detection using pose estimation
+  - Body posture analysis for straight detection
+  - Real-time PPE detection and monitoring
 - Technologies:
   - PyTorch
   - TorchVision
   - OpenCV
+  - MediaPipe for pose tracking
   - NumPy
+  - YOLO for PPE detection
 
 ### 5. Multi-Stream Model
 - Combines both visual and pose information
