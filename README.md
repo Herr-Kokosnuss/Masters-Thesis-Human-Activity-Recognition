@@ -1,5 +1,7 @@
 # Human Activity Recognition Using Deep Learning Models
 
+📚 **[Download Full Thesis PDF](https://drive.usercontent.google.com/download?id=1ZiIavew9zHSZptNu6jJhU0BOmfcPV3ZB&export=download&authuser=0&confirm=t&uuid=6b2aa283-ba81-4b60-b248-ae16bc79bd51&at=AIrpjvOY0WucHTXCN1Ur22S7DYdU:1737256567268)**
+
 This repository contains the implementation of various deep learning models for human activity recognition using video data. The project explores different approaches including image-based models, pose-based models, and a multi-stream model that combines both visual and pose information.
 
 ## Project Structure
